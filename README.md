@@ -9,5 +9,7 @@ Bu veri seti UK’de trafik kazası verilerini içermektedir.Bu veri seti aracı
 
 4)Kırsal ve kentsel alanlar nasıl farklılaştı?
 
+Verisetlerine ulaşmak için link:  https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales
+
 
 
